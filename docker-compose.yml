@@ -11,6 +11,5 @@ version: "3.8"
   backend:
     build:
       context: ./backend
-        dockerfile: dockerfile
-          ports:
+      dockerfile: dockerfile     ports:
           - "8080:8080"
