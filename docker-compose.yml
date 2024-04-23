@@ -10,4 +10,5 @@ version: "3.8"
         - backend
   backend:
       build:
-      cont
+        context: ./backend
+        dockerfile: D
