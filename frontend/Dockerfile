@@ -1,1 +1,1 @@
-FROM 
+FROM cemtos:7
