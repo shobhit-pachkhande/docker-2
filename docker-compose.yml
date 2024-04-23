@@ -6,10 +6,11 @@ version: "3.8"
       dockerfile: dockerfile
     ports:
     - "80:80"
-    depends_on:        - backend
+    depends_on:
+            - backend
   backend:
-      build:
-        context: ./backend
+    build:
+      context: ./backend
         dockerfile: dockerfile
           ports:
           - "8080:8080"
