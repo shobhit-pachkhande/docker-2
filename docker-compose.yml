@@ -5,4 +5,4 @@ version: "3.8"
       context: ./frontend
       dockerfile: dockerfile
     ports:
-      - 
+      - 80:80"
