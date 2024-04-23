@@ -4,4 +4,5 @@ version: "3.8"
     build:
       context: ./frontend
       dockerfile: dockerfile
-      
+    ports:
+      - 
