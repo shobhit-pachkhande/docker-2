@@ -12,4 +12,4 @@ Step : Run the dockerfile
 sudo apt install docker-compose -y
 # commands 
 docker-compose up -d -----> d for detach 
-docker-  
+docker-compose down ------>  
