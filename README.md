@@ -8,4 +8,4 @@ Step 2: Wrote the Dockerfile for studentAppp application
 Step 3: once RDS instance is created wrote the context.xml file in repository. Add your RDS-endpoint, port number, MysqlDB named as studentapp.
 
 Step : Run the dockerfile
-# command 
+# commands of docker-compose 
