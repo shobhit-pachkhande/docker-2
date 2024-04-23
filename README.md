@@ -1,4 +1,4 @@
-#studentapp-2-tier-docker-b1
+# studentapp-2-tier-docker-b1
 Here we are deploying the erp-based application with dockerized form, and taking a data base from cloud managed service.
 
 Step 1: Here create a RDS in aws make it runnable
