@@ -11,4 +11,4 @@ Step : Run the dockerfile
 # docker-compose 
 sudo apt install docker-compose -y
 # commands 
-docker-compose up -d  
+docker-compose up -d ----->   
