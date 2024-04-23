@@ -6,3 +6,4 @@ version: "3.8"
       dockerfile: dockerfile
     ports:
       - "80:80"
+      depends_on
