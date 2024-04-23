@@ -3,4 +3,5 @@ version: "3.8"
   frontend:
     build:
       context: ./frontend
-      doc
+      dockerfile: dockerfile
+      
