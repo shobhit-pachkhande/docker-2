@@ -9,4 +9,4 @@ Step 3: once RDS instance is created wrote the context.xml file in repository. A
 
 Step : Run the dockerfile
 # docker-compose 
-install 
+sudo apt install docker 
