@@ -1,3 +1,3 @@
 FROM centos:7
 LABEL APP="studentappFE"
-LAB
+LABEL D
