@@ -1,2 +1,2 @@
 FROM centos:7
-LABEL 
+LABEL APP=""
