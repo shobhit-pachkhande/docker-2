@@ -5,9 +5,8 @@ version: "3.8"
       context: ./frontend
       dockerfile: dockerfile
     ports:
-      - "80:80"
-      depends_on:
-        - backend
+    - "80:80"
+    depends_on:        - backend
   backend:
       build:
         context: ./backend
