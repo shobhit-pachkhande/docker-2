@@ -13,4 +13,4 @@ version: "3.8"
         context: ./backend
         dockerfile: dockerfile
           ports:
-          - 8080:8080
+          - "8080:8080"
